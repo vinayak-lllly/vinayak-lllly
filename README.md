@@ -1,4 +1,4 @@
-HI THERE
+ HI THERE.................
 
 <!--
 **vinayak-lllly/vinayak-lllly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![raw](https://github.com/user-attachments/assets/646ebdfe-b452-424b-bf24-cd99073aded5)
+![image](https://github.com/user-attachments/assets/284cdf98-4986-4882-ba1e-efce05f125db)
+
 
